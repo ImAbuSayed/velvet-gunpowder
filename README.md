@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-gunpowder/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Velvet Gunpowder](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-gunpowder/) |
+| **Get License** | [Music Rights & Licensing for Velvet Gunpowder](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-gunpowder/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaale aasmaan thalle teri vibe so cold
+> Mere seene vich dhak-dhak, a story untold
+> Main turda haan kalla, got nothing to hold
+> Teri akhiyaan di garmi, it makes me bold
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
