@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-gunpowder/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Velvet Gunpowder](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-gunpowder/) |
+| **Get License** | [License this song: Velvet Gunpowder](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-gunpowder/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7785bb2dbc1dcae30dab7e4752838f72215019f31f3ee2ec35c307eeab45c5ec` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
